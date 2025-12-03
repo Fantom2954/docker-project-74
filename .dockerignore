@@ -1,0 +1,8 @@
+node_modules
+app/node_modules
+.env
+app/.npm
+app/.cache
+*.sqlite
+dist
+.git
