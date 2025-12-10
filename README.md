@@ -1,2 +1,2 @@
 ### Hexlet tests and linter status:
-[![Actions Status](https://github.com/Fantom2954/docker-project-74/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Fantom2954/docker-project-74/actions)
+[![Actions Status](https://github.com/Wirth12/devops-for-developers-project-74/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Wirth12/devops-for-developers-project-74/actions)
